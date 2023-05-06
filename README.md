@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **rrwnz/rrwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧑‍💻 Trabalho com Aplicativos, Banco de Dados, Cloud Computing.
+
+✅Análise de dados: Python
+✅Cloud: AWS
+✅Databases: MySQL, PostgreSQL
+✅Frameworks: Laravel, Node.Js
+✅Mobile: Android, React Native
+✅FrontEnd: React
+
+🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid.
+⚙️ DevOps, ETL.
