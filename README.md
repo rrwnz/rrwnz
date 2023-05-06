@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🧑‍💻 Trabalho com Aplicativos, Banco de Dados, Cloud Computing.
 
-- ✅Análise de dados: Python
-- ✅Cloud: AWS
-- ✅Databases: MySQL, PostgreSQL
-- ✅Frameworks: Laravel, Node.Js
-- ✅Mobile: Android, React Native
-- ✅FrontEnd: React
+ ✅Análise de dados: Python. <br/>
+ ✅Cloud: AWS. <br/>
+ ✅Databases: MySQL, PostgreSQL. <br/>
+ ✅Frameworks: Laravel, Node.Js. <br/>
+ ✅Mobile: Android, React Native. <br/>
+ ✅FrontEnd: React. <br/>
 
-- 🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid.
-- ⚙️ DevOps, ETL.
+ 🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid. <br/>
+ ⚙️ DevOps, ETL.<br/>
