@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🧑‍💻 Trabalho com Aplicativos, Banco de Dados, Cloud Computing.
 
- ✅Análise de dados: Python. <br/>
+ ✅Análise de dados: Python, Excel <br/>
  ✅Cloud: AWS. <br/>
  ✅Databases: MongoDB, MySQL, PostgreSQL. <br/>
  ✅Web: Laravel, Node.Js. <br/>
