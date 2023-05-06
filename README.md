@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ✅Mobile: Android, React Native
 - ✅FrontEnd: React
 
-🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid.
-⚙️ DevOps, ETL.
+- 🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid.
+- ⚙️ DevOps, ETL.
