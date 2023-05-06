@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  ✅Análise de dados: Python. <br/>
  ✅Cloud: AWS. <br/>
- ✅Databases: MySQL, PostgreSQL. <br/>
+ ✅Databases: MongoDB, MySQL, PostgreSQL. <br/>
  ✅Web: Laravel, Node.Js. <br/>
  ✅Mobile: Android, React Native. <br/>
  ✅FrontEnd: React. <br/>
