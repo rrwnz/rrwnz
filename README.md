@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, me chamo Rafael 👋
 
 <!--
 **rrwnz/rrwnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  ✅Análise de dados: Python. <br/>
  ✅Cloud: AWS. <br/>
  ✅Databases: MySQL, PostgreSQL. <br/>
- ✅Frameworks: Laravel, Node.Js. <br/>
+ ✅Web: Laravel, Node.Js. <br/>
  ✅Mobile: Android, React Native. <br/>
  ✅FrontEnd: React. <br/>
 
