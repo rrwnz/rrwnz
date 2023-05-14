@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  ✅Análise de dados: Python, Excel <br/>
  ✅Cloud: AWS. <br/>
  ✅Databases: MongoDB, MySQL, PostgreSQL. <br/>
- ✅Web: Laravel, Node.Js. <br/>
+ ✅Web: Spring Boot, Node.Js. <br/>
  ✅Mobile: Android, React Native. <br/>
  ✅FrontEnd: React. <br/>
 
