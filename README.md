@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑‍💻 Trabalho com Aplicativos, Banco de Dados, Cloud Computing.
+🧑‍💻 Trabalho com Banco de Dados, Cloud Computing e Desenvolvimento de software.
 
  ✅Análise de dados: Python, Excel <br/>
  ✅Cloud: AWS. <br/>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  ✅FrontEnd: React. <br/>
 
  🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid. <br/>
- ⚙️ DevOps, ETL.<br/>
+ ⚙️ Database administrator, DevOps, ETL.<br/>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="rrwnz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
