@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  ✅Cloud: AWS. <br/>
  ✅Databases: Oracle, MySQL, PostgreSQL. <br/>
  ✅Web: Laravel, Spring Boot. <br/>
- ✅Mobile: Android, React Native. <br/>
+ <!--✅Mobile: Android, React Native. <br/>-->
  ✅FrontEnd: React. <br/>
 
  🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e Princípios Solid. <br/>
