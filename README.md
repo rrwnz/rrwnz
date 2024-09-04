@@ -8,9 +8,8 @@
  ✅Web: Laravel, Spring Boot.<br/>
  ✅FrontEnd: React. <br/>
 
+⚙️Administração de Bancos de Dados, ETL e DataOps.<br/>
 🧑‍🚀Desenvolvimento de API REST e Microsserviços com TDD e DevOps. <br/>
-
-⚙️ Administração de Bancos de Dados, ETL e DataOps.<br/>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="rrwnz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
